@@ -4,5 +4,7 @@ int main() {
 
 	printf("Hello VisualStudio Git!\n");
 
-	printf("PullRequest branch changed\n");
+	printf("Hello New branch\n");
+
+
 }
