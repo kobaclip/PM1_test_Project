@@ -6,5 +6,5 @@ int main() {
 
 	printf("クローンした\n");
 
-
+	printf("クローンしてみたyo");
 }
